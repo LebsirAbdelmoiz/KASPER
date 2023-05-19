@@ -865,8 +865,8 @@ header nav .form i {
     text-transform: uppercase;
     margin: 20px auto;
 }
-.footer .container .socisl-icons i {
-    padding: 10PX 15PX;
+.footer i {
+    padding: 15PX;
 }
 .footer .copyright {
     margin: 60PX 0 0 0;
