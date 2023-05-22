@@ -6,7 +6,7 @@
     padding: 0;
 }
 html {
-    scroll: smooth;
+    scroll-behavior: smooth;
 }
 :root {
     --main-color: #19c8fa;
