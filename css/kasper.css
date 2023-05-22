@@ -5,6 +5,9 @@
     margin: 0;
     padding: 0;
 }
+html {
+    scroll: smooth;
+}
 :root {
     --main-color: #19c8fa;
     --transparent-color: rgb(15 116 143 / 70%);
